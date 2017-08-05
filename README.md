@@ -1,1 +1,1 @@
-Django Testing
+Django Test
